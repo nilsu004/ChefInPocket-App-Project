@@ -15,3 +15,5 @@ Emir Keskin
 Şemse Doğa Atılğan 
 
 Nilsu Saraçlar 
+
+Bora Demirkol
